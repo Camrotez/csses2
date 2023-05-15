@@ -1,0 +1,17 @@
+.sezione{
+  background-color: #9999; 
+  width: 450px;
+    
+  
+}
+#first{
+    background-color: red;
+    color: white;
+}
+p{
+  text-align: center;
+}
+.end{
+  display: flex;
+  justify-content: space-around;
+}
